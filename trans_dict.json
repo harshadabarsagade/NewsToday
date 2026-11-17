@@ -1,0 +1,798 @@
+{
+ "langName": {
+  "en": "English",
+  "hi": "हिन्दी"
+ },
+ "nav.home": {
+  "en": "Home",
+  "hi": "होम"
+ },
+ "nav.allPages": {
+  "en": "All Pages",
+  "hi": "सभी पेज"
+ },
+ "nav.newsCategories": {
+  "en": "News Categories",
+  "hi": "समाचार श्रेणियाँ"
+ },
+ "nav.about": {
+  "en": "About",
+  "hi": "हमारे बारे में"
+ },
+ "nav.subscription": {
+  "en": "Subscription",
+  "hi": "सदस्यता"
+ },
+ "nav.authors": {
+  "en": "Authors",
+  "hi": "संपादकीय टीम"
+ },
+ "footer.editorialTeam": {
+  "en": "Editorial Team",
+  "hi": "संपादकीय टीम"
+ },
+ "nav.editorProfile": {
+  "en": "Editor Profile",
+  "hi": "संपादक प्रोफाइल"
+ },
+ "nav.contact": {
+  "en": "Contact",
+  "hi": "संपर्क करें"
+ },
+ "nav.privacyPolicy": {
+  "en": "Privacy Policy",
+  "hi": "गोपनीयता नीति"
+ },
+ "nav.terms": {
+  "en": "Terms & Conditions",
+  "hi": "नियम एवं शर्तें"
+ },
+ "nav.subscribe": {
+  "en": "Subscribe",
+  "hi": "सब्सक्राइब करें"
+ },
+ "nav.readMore": {
+  "en": "Read More",
+  "hi": "पूरी खबर पढ़ें"
+ },
+ "nav.latestNews": {
+  "en": "Latest News",
+  "hi": "ताज़ा ख़बरें"
+ },
+ "cat.topStories": {
+  "en": "Top Global Stories",
+  "hi": "प्रमुख वैश्विक समाचार"
+ },
+ "cat.worldNews": {
+  "en": "World News",
+  "hi": "विश्व समाचार"
+ },
+ "cat.economy": {
+  "en": "Economy",
+  "hi": "अर्थव्यवस्था"
+ },
+ "cat.technology": {
+  "en": "Technology",
+  "hi": "तकनीक"
+ },
+ "cat.scienceHealth": {
+  "en": "Science & Health",
+  "hi": "विज्ञान एवं स्वास्थ्य"
+ },
+ "cat.lifestyleCulture": {
+  "en": "Lifestyle & Culture",
+  "hi": "जीवनशैली एवं संस्कृति"
+ },
+ "cat.sports": {
+  "en": "Sports",
+  "hi": "खेल"
+ },
+ "cat.entertainment": {
+  "en": "Entertainment",
+  "hi": "मनोरंजन"
+ },
+ "cat.otherNews": {
+  "en": "Other news",
+  "hi": "अन्य ख़बरें"
+ },
+ "cat.globalMarkets": {
+  "en": "Global Markets",
+  "hi": "वैश्विक बाजार"
+ },
+ "cat.globalStories": {
+  "en": "Global Stories",
+  "hi": "वैश्विक कहानियाँ"
+ },
+ "ui.seeAll": {
+  "en": "See All",
+  "hi": "सभी देखें"
+ },
+ "ui.viewProfile": {
+  "en": "View Profile",
+  "hi": "प्रोफाइल देखें"
+ },
+ "ui.owner": {
+  "en": "Owner / Editor: Ravi Kumar",
+  "hi": "स्वामी / संपादक: रवि कुमार"
+ },
+ "ui.quickLinks": {
+  "en": "Quick Links",
+  "hi": "मुख्य लिंक"
+ },
+ "ui.legalLinks": {
+  "en": "Legal Links",
+  "hi": "महत्वपूर्ण लिंक"
+ },
+ "ui.contactOffice": {
+  "en": "Contact Office",
+  "hi": "संपर्क कार्यालय"
+ },
+ "ui.date": {
+  "en": "Sunday, October 26, 2025",
+  "hi": "रविवार, 26 अक्टूबर 2025"
+ },
+ "footer.subscribeHeading": {
+  "en": "Subscribe to Our Newsletter to Stay ahead with daily headlines.",
+  "hi": "दैनिक मुख्य समाचारों से जुड़े रहने के लिए न्यूज़लेटर सब्सक्राइब करें।"
+ },
+ "footer.footerText": {
+  "en": "Truthful, accurate and impartial journalism with you every moment - the latest news from Bhagalpur and the country and the world.",
+  "hi": "सच्ची, सटीक और निष्पक्ष पत्रकारिता के साथ हर पल आपके साथ - भागलपुर और देश-दुनिया की ताज़ा ख़बरें।"
+ },
+ "footer.socialText": {
+  "en": "Connect with us on social media:",
+  "hi": "सोशल मीडिया पर जुड़ें:"
+ },
+ "footer.allRightsReserved": {
+  "en": "© 2026 News Today. All Rights Reserved. - Made By Mohit Raj & Team",
+  "hi": "© 2026 News Today. सर्वाधिकार सुरक्षित। - मोहित राज एवं टीम द्वारा निर्मित"
+ },
+ "footer.headOffice": {
+  "en": "Head Office: Bhikhanpur, Bhagalpur, Bihar, India",
+  "hi": "कार्यालय: भीखनपुर, भागलपुर, बिहार, भारत"
+ },
+ "footer.phone": {
+  "en": "Phone: +91 99731 89133",
+  "hi": "फोन: +91 99731 89133"
+ },
+ "footer.email": {
+  "en": "Email: contact@newstoday.com",
+  "hi": "ईमेल: contact@newstoday.com"
+ },
+ "footer.ctaTitle": {
+  "en": "Join over 1 million aware readers - don't miss any big news.",
+  "hi": "10 लाख से अधिक जागरूक पाठकों के साथ जुड़ें - कोई बड़ी खबर न चूकें।"
+ },
+ "footer.ctaSubtext": {
+  "en": "Stay informed wherever you are — join our growing community of readers and followers across social platforms.",
+  "hi": "Stay informed wherever you are — join our growing community of readers and followers across social platforms."
+ },
+ "footer.subscribePart1": {
+  "en": "Subscribe to our newsletter to",
+  "hi": "दैनिक मुख्य समाचारों से जुड़े रहने के लिए"
+ },
+ "footer.subscribePart2": {
+  "en": "stay ahead with daily headlines.",
+  "hi": "न्यूज़लेटर सब्सक्राइब करें।"
+ },
+ "footer.formPlaceholder": {
+  "en": "Enter your email",
+  "hi": "अपना ईमेल दर्ज करें"
+ },
+ "footer.formSubmit": {
+  "en": "Subscribe",
+  "hi": "सब्सक्राइब करें"
+ },
+ "footer.formWait": {
+  "en": "Please wait...",
+  "hi": "कृपया प्रतीक्षा करें..."
+ },
+ "footer.formSuccess": {
+  "en": "Thank you! Your submission has been received!",
+  "hi": "धन्यवाद! आपका सबमिशन प्राप्त हो गया है!"
+ },
+ "footer.formError": {
+  "en": "Oops! Something went wrong while submitting the form.",
+  "hi": "ओहॉ! फॉर्म सबमिट करने में कुछ गड़बड़ हो गई।"
+ },
+ "art.headline": {
+  "en": "Breakthrough in Renewable Energy Storage Could Transform Global Power Supply",
+  "hi": "नवीकरणीय ऊर्जा भंडारण में सफलता वैश्विक बिजली आपूर्ति को बदल सकती है"
+ },
+ "art.author": {
+  "en": "Ravi Kumar",
+  "hi": "रवि कुमार"
+ },
+ "art.date": {
+  "en": "November 24, 2025",
+  "hi": "24 नवंबर, 2025"
+ },
+ "art.body.p0": {
+  "en": "Global stock markets rallied sharply this week as investors reacted positively to new data showing that inflation in the United States and other major economies has continued to cool, easing fears of prolonged monetary tightening by central banks.",
+  "hi": "इस सप्ताह वैश्विक शेयर बाजारों में तेजी आई क्योंकि निवेशकों ने नए डेटा पर सकारात्मक प्रतिक्रिया दी जिसमें पता चला कि संयुक्त राज्य अमेरिका और अन्य बड़ी अर्थव्यवस्थाओं में मुद्रास्फीति ठंडी हो रही है, जिससे केंद्रीय बैंकों द्वारा लंबे समय तक मौद्रिक कसने के डर को कम किया गया है।"
+ },
+ "art.body.p1": {
+  "en": "The Dow Jones Industrial Average climbed more than 2.4%, its strongest weekly gain since June, while the S&P 500 and Nasdaq Composite each jumped 2.1% and 2.8%, respectively. European and Asian markets followed suit, with the FTSE 100, DAX, and Nikkei 225 all closing higher as investor sentiment improved across global exchanges. According to the latest report from the U.S. Bureau of Labor Statistics, the Consumer Price Index (CPI) rose by just 0.2% in September, bringing the annual inflation rate down to 3.1% — slightly below economists’ expectations. The steady decline in price growth has raised hopes that the Federal Reserve may soon begin to ease its aggressive interest rate policy.",
+  "hi": "डाउ जोन्स इंडस्ट्रियल एवरेज 2.4% से अधिक चढ़ा, जो जून के बाद का सबसे बड़ा साप्ताहिक लाभ है, जबकि एसएंडपी 500 और नैस्डैक कंपोजिट क्रमशः 2.1% और 2.8% बढ़े। यूरोपीय और एशियाई बाजारों ने भी इसका अनुसरण किया, जहां एफटीएसई 100, डैक्स और निक्केई 225 सभी ऊंचे पर बंद हुए क्योंकि वैश्विक एक्सचेंजों में निवेशक भावना में सुधार हुआ। अमेरिकी श्रम सांख्यिकी ब्यूरो की नवीनतम रिपोर्ट के अनुसार, उपभोक्ता मूल्य सूचकांक (सीपीआई) सितंबर में सिर्फ 0.2% बढ़ा, जिससे वार्षिक मुद्रास्फीति दर घटकर 3.1% रह गई — अर्थशास्त्रियों की उम्मीदों से थोड़ा कम। मूल्य वृद्धि में स्थिर गिरावट ने उम्मीदें बढ़ाई हैं कि फेडरल रिजर्व जल्द ही अपनी आक्रामक ब्याज दर नीति में ढील देना शुरू कर सकता है।"
+ },
+ "art.body.p2": {
+  "en": "“This is a clear signal that inflationary pressures are stabilizing,” said Janet Howell, Senior Market Analyst at GlobalEdge Capital. “Investors are starting to believe the Fed might actually pull off a soft landing — slowing inflation without causing a recession.”",
+  "hi": "“यह मुद्रास्फीति के दबाव के स्थिर होने का स्पष्ट संकेत है,” ग्लोबलएज कैपिटल में वरिष्ठ बाजार विश्लेषक जेनेट हॉवेल ने कहा। “निवेशकों को विश्वास होने लगा है कि फेड वास्तव में एक सॉफ्ट लैंडिंग हासिल कर सकता है — मंदी का कारण बने बिना मुद्रास्फीति को धीमा करना।”"
+ },
+ "art.body.p3": {
+  "en": "The Dow Jones Industrial Average climbed more than 2.4%, its strongest weekly gain since June, while the S&P 500 and Nasdaq Composite each jumped 2.1% and 2.8%, respectively. European and Asian markets followed suit, with the FTSE 100, DAX, and Nikkei 225 all closing higher as investor sentiment improved across global exchanges. According to the latest report from the U.S. Bureau of Labor Statistics, the Consumer Price Index (CPI) rose by just 0.2% in September, bringing the annual inflation rate down to 3.1% — slightly below economists’ expectations. The steady decline in price growth has raised hopes that the Federal Reserve may soon begin to ease its aggressive interest rate policy.",
+  "hi": "डाउ जोन्स इंडस्ट्रियल एवरेज 2.4% से अधिक चढ़ा, जो जून के बाद का सबसे बड़ा साप्ताहिक लाभ है, जबकि एसएंडपी 500 और नैस्डैक कंपोजिट क्रमशः 2.1% और 2.8% बढ़े। यूरोपीय और एशियाई बाजारों ने भी इसका अनुसरण किया, जहां एफटीएसई 100, डैक्स और निक्केई 225 सभी ऊंचे पर बंद हुए क्योंकि वैश्विक एक्सचेंजों में निवेशक भावना में सुधार हुआ। अमेरिकी श्रम सांख्यिकी ब्यूरो की नवीनतम रिपोर्ट के अनुसार, उपभोक्ता मूल्य सूचकांक (सीपीआई) सितंबर में सिर्फ 0.2% बढ़ा, जिससे वार्षिक मुद्रास्फीति दर घटकर 3.1% रह गई — अर्थशास्त्रियों की उम्मीदों से थोड़ा कम। मूल्य वृद्धि में स्थिर गिरावट ने उम्मीदें बढ़ाई हैं कि फेडरल रिजर्व जल्द ही अपनी आक्रामक ब्याज दर नीति में ढील देना शुरू कर सकता है।"
+ },
+ "art.body.p4": {
+  "en": "“This is a clear signal that inflationary pressures are stabilizing,” said Janet Howell, Senior Market Analyst at GlobalEdge Capital. “Investors are starting to believe the Fed might actually pull off a soft landing — slowing inflation without causing a recession.”",
+  "hi": "“यह मुद्रास्फीति के दबाव के स्थिर होने का स्पष्ट संकेत है,” ग्लोबलएज कैपिटल में वरिष्ठ बाजार विश्लेषक जेनेट हॉवेल ने कहा। “निवेशकों को विश्वास होने लगा है कि फेड वास्तव में एक सॉफ्ट लैंडिंग हासिल कर सकता है — मंदी का कारण बने बिना मुद्रास्फीति को धीमा करना।”"
+ },
+ "art.body.p5": {
+  "en": "The Dow Jones Industrial Average climbed more than 2.4%, its strongest weekly gain since June, while the S&P 500 and Nasdaq Composite each jumped 2.1% and 2.8%, respectively. European and Asian markets followed suit, with the FTSE 100, DAX, and Nikkei 225 all closing higher as investor sentiment improved across global exchanges. According to the latest report from the U.S. Bureau of Labor Statistics, the Consumer Price Index (CPI) rose by just 0.2% in September, bringing the annual inflation rate down to 3.1% — slightly below economists’ expectations. The steady decline in price growth has raised hopes that the Federal Reserve may soon begin to ease its aggressive interest rate policy.",
+  "hi": "डाउ जोन्स इंडस्ट्रियल एवरेज 2.4% से अधिक चढ़ा, जो जून के बाद का सबसे बड़ा साप्ताहिक लाभ है, जबकि एसएंडपी 500 और नैस्डैक कंपोजिट क्रमशः 2.1% और 2.8% बढ़े। यूरोपीय और एशियाई बाजारों ने भी इसका अनुसरण किया, जहां एफटीएसई 100, डैक्स और निक्केई 225 सभी ऊंचे पर बंद हुए क्योंकि वैश्विक एक्सचेंजों में निवेशक भावना में सुधार हुआ। अमेरिकी श्रम सांख्यिकी ब्यूरो की नवीनतम रिपोर्ट के अनुसार, उपभोक्ता मूल्य सूचकांक (सीपीआई) सितंबर में सिर्फ 0.2% बढ़ा, जिससे वार्षिक मुद्रास्फीति दर घटकर 3.1% रह गई — अर्थशास्त्रियों की उम्मीदों से थोड़ा कम। मूल्य वृद्धि में स्थिर गिरावट ने उम्मीदें बढ़ाई हैं कि फेडरल रिजर्व जल्द ही अपनी आक्रामक ब्याज दर नीति में ढील देना शुरू कर सकता है।"
+ },
+ "art.body.p6": {
+  "en": "“This is a clear signal that inflationary pressures are stabilizing,” said Janet Howell, Senior Market Analyst at GlobalEdge Capital. “Investors are starting to believe the Fed might actually pull off a soft landing — slowing inflation without causing a recession.”",
+  "hi": "“यह मुद्रास्फीति के दबाव के स्थिर होने का स्पष्ट संकेत है,” ग्लोबलएज कैपिटल में वरिष्ठ बाजार विश्लेषक जेनेट हॉवेल ने कहा। “निवेशकों को विश्वास होने लगा है कि फेड वास्तव में एक सॉफ्ट लैंडिंग हासिल कर सकता है — मंदी का कारण बने बिना मुद्रास्फीति को धीमा करना।”"
+ },
+ "art.h4.0": {
+  "en": "Global Confidence Strengthens.",
+  "hi": "वैश्विक विश्वास मजबूत हो रहा है।"
+ },
+ "art.h4.1": {
+  "en": "Tech and Financial Stocks Lead the Rally.",
+  "hi": "टेक और वित्तीय शेयर रैली का नेतृत्व कर रहे हैं।"
+ },
+ "art.h4.2": {
+  "en": "The next major event on investors’ calendars is the upcoming Federal Open Market Committee (FOMC) meeting into 2026.",
+  "hi": "निवेशकों के कैलेंडर पर अगली बड़ी घटना आगामी फेडरल ओपन मार्केट कमेटी (एफओएमसी) बैठक 2026 में है।"
+ },
+ "cat.business": {
+  "en": "Business",
+  "hi": "व्यवसाय"
+ },
+ "cat.environment": {
+  "en": "Environment",
+  "hi": "पर्यावरण"
+ },
+ "cat.scienceEnvironment": {
+  "en": "Science & Environment",
+  "hi": "विज्ञान एवं पर्यावरण"
+ },
+ "cat.lifestyle": {
+  "en": "Lifestyle",
+  "hi": "जीवनशैली"
+ },
+ "cat.globalNews": {
+  "en": "Global News",
+  "hi": "विश्व समाचार"
+ },
+ "art.title.70-nations-gathered-this-weekend-in-geneva-to-finalize-agreement-at-reducing-global-carbon-emissions": {
+  "en": "70 nations gathered this weekend in Geneva to finalize agreement at reducing global carbon emissions",
+  "hi": "इस सप्ताह के अंत में 70 देशों ने वैश्विक कार्बन उत्सर्जन को कम करने के समझौते को अंतिम रूप देने के लिए जिनेवा में एकत्र हुए"
+ },
+ "art.title.a-deep-dive-into-the-evolution-of-digital-journalism-and-algorithm-driven-content-feeds": {
+  "en": "A deep dive into the evolution of digital journalism and algorithm-driven content feeds.",
+  "hi": "डिजिटल पत्रकारिता और एल्गोरिदम-चालित सामग्री फ़ीड के विकास में गहराई से उतरना"
+ },
+ "art.title.a-thrilling-final-match-saw-an-unexpected-champion-rise-stunning-fans-and-analysts-alike": {
+  "en": "A thrilling final match saw an unexpected champion rise, stunning fans and analysts alike.",
+  "hi": "एक रोमांचक अंतिम मैच में एक अप्रत्याशित चैंपियन का उदय हुआ, प्रशंसकों और विश्लेषकों को आश्चर्यचकित किया"
+ },
+ "art.title.after-two-decades-of-dominance-the-legendary-player-bids-farewell-in-an-emotional-press": {
+  "en": "After two decades of dominance, the legendary player bids farewell in an emotional press.",
+  "hi": "दो दशकों के प्रभुत्व के बाद, दिग्गज खिलाड़ी एक भावुक प्रेस में विदाई लेता है"
+ },
+ "art.title.ai-breakthroughs-surge-as-leading-tech-firms-launch-advanced-smart-assistants": {
+  "en": "AI Breakthroughs Surge as Leading Tech Firms Launch Advanced Smart Assistants.",
+  "hi": "प्रमुख तकनीकी फर्मों द्वारा उन्नत स्मार्ट सहायकों के लॉन्च के रूप में AI सफलताओं में वृद्धि"
+ },
+ "art.title.ai-evolution-speeds-up-as-industry-giants-showcase-future-ready-assistants": {
+  "en": "AI Evolution Speeds Up as Industry Giants Showcase Future-Ready Assistants.",
+  "hi": "उद्योग के दिग्गजों द्वारा भविष्य के लिए तैयार सहायकों का प्रदर्शन किए जाने पर AI विकास में तेजी"
+ },
+ "art.title.ai-momentum-grows-as-tech-heavyweights-present-revolutionary-smart-assistants": {
+  "en": "AI Momentum Grows as Tech Heavyweights Present Revolutionary Smart Assistants.",
+  "hi": "तकनीकी दिग्गजों द्वारा क्रांतिकारी स्मार्ट सहायक प्रस्तुत किए जाने पर AI गति बढ़ती है"
+ },
+ "art.title.ai-revolution-accelerates-as-tech-giants-unveil-next-gen-intelligent-assistants-2": {
+  "en": "AI Revolution Accelerates as Tech Giants Unveil Next-Gen Intelligent Assistants",
+  "hi": "तकनीकी दिग्गजों द्वारा अगली पीढ़ी के बुद्धिमान सहायकों का अनावरण किए जाने पर AI क्रांति में तेजी"
+ },
+ "art.title.ai-revolution-accelerates-as-tech-giants-unveil-next-gen-intelligent-assistants": {
+  "en": "AI Revolution Accelerates as Tech Giants Unveil Next-Gen Intelligent Assistants",
+  "hi": "तकनीकी दिग्गजों द्वारा अगली पीढ़ी के बुद्धिमान सहायकों का अनावरण किए जाने पर AI क्रांति में तेजी"
+ },
+ "art.title.an-opinion-piece-on-how-authentic-reporting-and-human-ethics-remain-irreplaceable-even": {
+  "en": "An opinion piece on how authentic reporting and human ethics remain irreplaceable even.",
+  "hi": "प्रामाणिक रिपोर्टिंग और मानव नैतिकता कैसे अप्रतिस्थापनीय बनी हुई है इस पर एक राय लेख"
+ },
+ "art.title.artificial-intelligence-tools-are-transforming-how-teams-collaborate-automating-tasks-workplace-efficiency": {
+  "en": "Artificial intelligence tools are transforming how teams collaborate, automating tasks workplace efficiency.",
+  "hi": "कृत्रिम बुद्धिमत्ता उपकरण इस तरह से टीमों के सहयोग करने के तरीके को बदल रहे हैं, कार्यों को स्वचालित करना कार्यस्थल दक्षता"
+ },
+ "art.title.breakthrough-in-renewable-energy-storage-could-transform-global-power-supply-2": {
+  "en": "Breakthrough in Renewable Energy Storage Could Transform Global Power Supply",
+  "hi": "नवीकरणीय ऊर्जा भंडारण में सफलता वैश्विक बिजली आपूर्ति को बदल सकती है"
+ },
+ "art.title.breakthrough-in-renewable-energy-storage-could-transform-global-power-supply": {
+  "en": "Breakthrough in Renewable Energy Storage Could Transform Global Power Supply",
+  "hi": "नवीकरणीय ऊर्जा भंडारण में सफलता वैश्विक बिजली आपूर्ति को बदल सकती है"
+ },
+ "art.title.central-banks-signal-policy-shift-amid-inflation-cooldown": {
+  "en": "Central Banks Signal Policy Shift Amid Inflation Cooldown",
+  "hi": "मुद्रास्फीति शीतलन के बीच केंद्रीय बैंकों ने नीति में बदलाव का संकेत दिया"
+ },
+ "art.title.chatbots-redefine-online-learning-as-students-embrace-virtual-tutors": {
+  "en": "Chatbots Redefine Online Learning as Students Embrace Virtual Tutors",
+  "hi": "छात्रों द्वारा आभासी ट्यूटरों को अपनाए जाने पर चैटबॉट ऑनलाइन शिक्षा को पुनः परिभाषित कर रहे हैं"
+ },
+ "art.title.cinema-revenues-hit-a-new-post-pandemic-high-fueled-by-blockbuster-releases-and-strong-attendance": {
+  "en": "Cinema revenues hit a new post-pandemic high, fueled by blockbuster releases and strong attendance.",
+  "hi": "महामारी के बाद सिनेमा राजस्व एक नए उच्च स्तर पर पहुंचा, ब्लॉकबस्टर रिलीज और मजबूत उपस्थिति से ईंधन"
+ },
+ "art.title.crude-oil-prices-climbed-to-new-yearly-highs-amid-renewed-geopolitical": {
+  "en": "Crude oil prices climbed to new yearly highs amid renewed geopolitical.",
+  "hi": "नवीकृत भू-राजनीतिक अस्थिरता के बीच कच्चे तेल की कीमतें नई वार्षिक ऊंचाई पर चढ़ीं"
+ },
+ "art.title.demand-for-mental-health-support-tools-continues-to-rise-as-people-seek": {
+  "en": "Demand for mental health support tools continues to rise as people seek.",
+  "hi": "मानसिक स्वास्थ्य सहायता उपकरणों की मांग बढ़ती जा रही है क्योंकि लोग मांग कर रहे हैं"
+ },
+ "art.title.emerging-asian-economies-are-outperforming-forecasts-driving-global-gdp-growth-upward": {
+  "en": "Emerging Asian economies are outperforming forecasts, driving global GDP growth upward.",
+  "hi": "उभरती एशियाई अर्थव्यवस्थाएं पूर्वानुमानों से बेहतर प्रदर्शन कर रही हैं, वैश्विक जीडीपी वृद्धि को बढ़ावा दे रही हैं"
+ },
+ "art.title.global-leaders-commit-to-ambitious-climate-goals-at-geneva-summit": {
+  "en": "Global Leaders Commit to Ambitious Climate Goals at Geneva Summit.",
+  "hi": "विश्व नेताओं ने जिनेवा शिखर सम्मेलन में महत्वाकांक्षी जलवायु लक्ष्यों के लिए प्रतिबद्धता जताई"
+ },
+ "art.title.global-markets-react-positively-to-trade-agreement-between-asia-and-europe": {
+  "en": "Global Markets React Positively to Trade Agreement Between Asia and Europe",
+  "hi": "एशिया और यूरोप के बीच व्यापार समझौते पर वैश्विक बाजारों ने सकारात्मक प्रतिक्रिया दी"
+ },
+ "art.title.innovation-booms-in-ai-as-top-tech-brands-debut-their-latest-intelligent-systems": {
+  "en": "Innovation Booms in AI as Top Tech Brands Debut Their Latest Intelligent Systems.",
+  "hi": "शीर्ष तकनीकी ब्रांडों द्वारा अपने नवीनतम बुद्धिमान प्रणालियों की शुरुआत किए जाने पर AI में नवाचार तेजी से बढ़ रहा है"
+ },
+ "art.title.major-cities-adopt-ai-traffic-systems-to-combat-congestion-and-pollution": {
+  "en": "Major Cities Adopt AI Traffic Systems to Combat Congestion and Pollution",
+  "hi": "भीड़भाड़ और प्रदूषण से लड़ने के लिए प्रमुख शहरों ने AI ट्रैफिक सिस्टम अपनाए"
+ },
+ "art.title.major-streaming-giants-are-in-fierce-competition-to-secure-exclusive-deals-with-top-creators": {
+  "en": "Major streaming giants are in fierce competition to secure exclusive deals with top creators.",
+  "hi": "शीर्ष रचनाकारों के साथ विशेष सौदे सुरक्षित करने में प्रमुख स्ट्रीमिंग दिग्गजों के बीच कड़ी प्रतिस्पर्धा"
+ },
+ "art.title.markets-responded-positively-to-the-european-central-banks-signal": {
+  "en": "Markets responded positively to the European Central Bank’s signal.",
+  "hi": "बाजारों ने यूरोपीय केंद्रीय बैंक के संकेत पर सकारात्मक प्रतिक्रिया दी"
+ },
+ "art.title.more-people-are-embracing-minimalist-lifestyles-focusing-on-possessions": {
+  "en": "More people are embracing minimalist lifestyles, focusing on possessions.",
+  "hi": "अधिक लोग न्यूनतम जीवनशैली अपना रहे हैं, संपत्तियों पर ध्यान केंद्रित कर रहे हैं"
+ },
+ "art.title.next-gen-ai-takes-center-stage-as-major-tech-companies-reveal-intelligent-tools": {
+  "en": "Next-Gen AI Takes Center Stage as Major Tech Companies Reveal Intelligent Tools.",
+  "hi": "प्रमुख तकनीकी कंपनियों द्वारा बुद्धिमान उपकरण प्रकट किए जाने पर अगली पीढ़ी का AI केंद्र स्तर पर"
+ },
+ "art.title.plant-based-products-are-taking-over-restaurant-menus-and-grocery": {
+  "en": "Plant-based products are taking over restaurant menus and grocery.",
+  "hi": "पौधे-आधारित उत्पाद रेस्तरां मेनू और किराने की दुकानों पर कब्जा कर रहे हैं"
+ },
+ "art.title.recent-satellite-data-shows-the-arctic-ice-melting-faster-than-expected": {
+  "en": "Recent satellite data shows the Arctic ice melting faster than expected.",
+  "hi": "हालिया उपग्रह डेटा दिखाता है कि आर्कटिक बर्फ अपेक्षा से तेजी से पिघल रही है"
+ },
+ "art.title.researchers-have-corrected-genetic-mutations-in-human-cells": {
+  "en": "Researchers have corrected genetic mutations in human cells.",
+  "hi": "शोधकर्ताओं ने मानव कोशिकाओं में आनुवंशिक उत्परिवर्तन को सही कर लिया है"
+ },
+ "art.title.rising-energy-costs-threaten-small-business-recovery": {
+  "en": "Rising Energy Costs Threaten Small Business Recovery",
+  "hi": "बढ़ती ऊर्जा लागत छोटे व्यवसाय की रिकवरी को खतरे में डाल रही है"
+ },
+ "art.title.scientists-develop-a-next-gen-vaccine-that-could-target-multiple": {
+  "en": "Scientists develop a next-gen vaccine that could target multiple.",
+  "hi": "वैज्ञानिकों ने एक अगली पीढ़ी का टीका विकसित किया है जो कई को लक्षित कर सकता है"
+ },
+ "art.title.stock-markets-surge-as-investors-regain-confidence-after-inflation-cooldown-2": {
+  "en": "Stock Markets Surge as Investors Regain Confidence After Inflation Cooldown",
+  "hi": "मुद्रास्फीति शीतलन के बाद निवेशकों का विश्वास बहाल होने पर शेयर बाजारों में उछाल"
+ },
+ "art.title.stock-markets-surge-as-investors-regain-confidence-after-inflation-cooldown-3": {
+  "en": "Stock Markets Surge as Investors Regain Confidence After Inflation Cooldown",
+  "hi": "मुद्रास्फीति शीतलन के बाद निवेशकों का विश्वास बहाल होने पर शेयर बाजारों में उछाल"
+ },
+ "art.title.stock-markets-surge-as-investors-regain-confidence-after-inflation-cooldown": {
+  "en": "Stock Markets Surge as Investors Regain Confidence After Inflation Cooldown",
+  "hi": "मुद्रास्फीति शीतलन के बाद निवेशकों का विश्वास बहाल होने पर शेयर बाजारों में उछाल"
+ },
+ "art.title.streaming-platforms-compete-for-viewers-as-subscriptions-hit-record-highs-2": {
+  "en": "Streaming Platforms Compete for Viewers as Subscriptions Hit Record Highs",
+  "hi": "दर्शकों के लिए स्ट्रीमिंग प्लेटफॉर्म प्रतिस्पर्धा कर रहे हैं क्योंकि सदस्यता रिकॉर्ड उच्च स्तर पर पहुंची"
+ },
+ "art.title.streaming-platforms-compete-for-viewers-as-subscriptions-hit-record-highs": {
+  "en": "Streaming Platforms Compete for Viewers as Subscriptions Hit Record Highs",
+  "hi": "दर्शकों के लिए स्ट्रीमिंग प्लेटफॉर्म प्रतिस्पर्धा कर रहे हैं क्योंकि सदस्यता रिकॉर्ड उच्च स्तर पर पहुंची"
+ },
+ "art.title.tech-titans-drive-ai-forward-with-cutting-edge-intelligent-assistant-releases": {
+  "en": "Tech Titans Drive AI Forward With Cutting-Edge Intelligent Assistant Releases.",
+  "hi": "तकनीकी दिग्गज अत्याधुनिक बुद्धिमान सहायक रिलीज के साथ AI को आगे बढ़ा रहे हैं"
+ },
+ "art.title.the-dollars-slight-decline-has-boosted-emerging-market-currencies": {
+  "en": "The dollar’s slight decline has boosted emerging market currencies.",
+  "hi": "डॉलर में मामूली गिरावट ने उभरते बाजार मुद्राओं को बढ़ावा दिया है"
+ },
+ "art.title.the-gaming-industry-continues-to-boom-as-esports-leagues-attract-massive-corporate-sponsors": {
+  "en": "The gaming industry continues to boom as esports leagues attract massive corporate sponsors.",
+  "hi": "ईस्पोर्ट्स लीगों द्वारा बड़े कॉर्पोरेट प्रायोजकों को आकर्षित किए जाने पर गेमिंग उद्योग फल-फूल रहा है"
+ },
+ "art.title.understanding-why-people-crave-constant-updates-and-how-it-affects-mental-health": {
+  "en": "Understanding why people crave constant updates and how it affects mental health.",
+  "hi": "लोग लगातार अपडेट क्यों चाहते हैं और यह मानसिक स्वास्थ्य को कैसे प्रभावित करता है इसे समझना"
+ },
+ "art.title.wellness-retreats-are-becoming-the-go-to-vacation-choice-blending": {
+  "en": "Wellness retreats are becoming the go-to vacation choice, blending.",
+  "hi": "वेलनेस रिट्रीट छुट्टी की पसंदीदा पसंद बन रहे हैं, मिश्रण"
+ },
+ "art.title.young-professionals-are-moving-away-from-crowded-cities-to-embrace": {
+  "en": "Young professionals are moving away from crowded cities to embrace.",
+  "hi": "युवा पेशेवर भीड़भाड़ वाले शहरों से दूर जा रहे हैं, अपनाने के लिए"
+ },
+ "index.title": {
+  "en": "News Today - Daily Breaking News, Stories & Headlines",
+  "hi": "हिन्दी में ब्रेकिंग न्यूज़, कहानियाँ और शीर्षक - News Today"
+ },
+ "index.desc": {
+  "en": "News Today is a modern newspaper and media outlet based in Bhikhanpur, Bhagalpur, Bihar. Deliver breaking news, in-depth stories, and engaging journalism with a fast, responsive layout.",
+  "hi": "News Today भिक्खनपुर, भागलपुर, बिहार में स्थित एक आधुनिक समाचार पत्र और मीडिया आउटलेट है। तेज़, रिस्पॉन्सिव लेआउट के साथ ब्रेकिंग न्यूज़, गहरी कहानियाँ और आकर्षक पत्रकारिता प्रदान करता है।"
+ },
+ "top.label1": {
+  "en": "ब्रेकिंग न्यूज़: बाज़ारों में नई आर्थिक नीतियों का असर",
+  "hi": "ब्रेकिंग न्यूज़: बाज़ारों में नई आर्थिक नीतियों का असर"
+ },
+ "top.label2": {
+  "en": "चुनाव 2025: शुरुआती रुझानों में चौंकाने वाले नतीजे",
+  "hi": "चुनाव 2025: शुरुआती रुझानों में चौंकाने वाले नतीजे"
+ },
+ "top.label3": {
+  "en": "तकनीक: दिग्गज टेक कंपनी ने पेश किया अगली पीढ़ी का एआई चिप",
+  "hi": "तकनीक: दिग्गज टेक कंपनी ने पेश किया अगली पीढ़ी का एआई चिप"
+ },
+ "top.label4": {
+  "en": "शिक्षा: नई राष्ट्रीय शिक्षा नीति में बड़े सुधारों की घोषणा",
+  "hi": "शिक्षा: नई राष्ट्रीय शिक्षा नीति में बड़े सुधारों की घोषणा"
+ },
+ "404.title": {
+  "en": "Not Found | News Today - Leading News & Media",
+  "hi": "मिली नहीं | News Today - अग्रणी समाचार और मीडिया"
+ },
+ "404.heading": {
+  "en": "Oops! Page Not Found",
+  "hi": "ओहॉ! पेज नहीं मिला"
+ },
+ "404.desc": {
+  "en": "Looks like the news took a different route. The page you’re trying to access might have been moved, deleted, or temporarily unavailable.",
+  "hi": "देखने में आ रहा है कि खबर ने कोई अलग रास्ता ले लिया है। जिस पेज तक आप पहुंचने की कोशिश कर रहे हैं, वह हटाया जा सकता है, हटाया जा सकता है, या अस्थायी रूप से अनुपलब्ध हो सकता है।"
+ },
+ "404.home": {
+  "en": "Return to Homepage",
+  "hi": "होमपेज पर लौटें"
+ },
+ "about.title": {
+  "en": "About | News Today - Leading News & Media",
+  "hi": "हमारे बारे में | News Today - अग्रणी समाचार और मीडिया"
+ },
+ "about.heading": {
+  "en": "Our Team",
+  "hi": "हमारी टीम"
+ },
+ "authors.title": {
+  "en": "Authors | News Today - Leading News & Media",
+  "hi": "लेखक | News Today - अग्रणी समाचार और मीडिया"
+ },
+ "authors.heading": {
+  "en": "Meet the Authors",
+  "hi": "लेखकों से मिलें"
+ },
+ "changelog.title": {
+  "en": "Changelog | News Today - Leading News & Media",
+  "hi": "चेंजलॉग | News Today - अग्रणी समाचार और मीडिया"
+ },
+ "changelog.heading": {
+  "en": "Changelog",
+  "hi": "चेंजलॉग"
+ },
+ "checkout.title": {
+  "en": "Checkout | News Today - Leading News & Media",
+  "hi": "चेकआउट | News Today - अग्रणी समाचार और मीडिया"
+ },
+ "contact.title": {
+  "en": "Contact Us | News Today - Leading News & Media",
+  "hi": "संपर्क करें | News Today - अग्रणी समाचार और मीडिया"
+ },
+ "contact.heading": {
+  "en": "We’re Here to Listen",
+  "hi": "हम यहां सुनने के लिए हैं"
+ },
+ "contact.call": {
+  "en": "Give us a call",
+  "hi": "हमें कॉल करें"
+ },
+ "contact.email": {
+  "en": "Send us an email",
+  "hi": "हमें एक ईमेल भेजें"
+ },
+ "contact.visit": {
+  "en": "Visit us in person",
+  "hi": "हमसे व्यक्तिगत रूप से मिलें"
+ },
+ "contact.form": {
+  "en": "Contact Form",
+  "hi": "संपर्क फॉर्म"
+ },
+ "contact.respond": {
+  "en": "We aim to respond to all messages within 24–48 hours.",
+  "hi": "हम 24-48 घंटों के भीतर सभी संदेशों का जवाब देने का लक्ष्य रखते हैं।"
+ },
+ "contact.agree": {
+  "en": "By reaching out to us, you agree to our",
+  "hi": "हमसे संपर्क करके, आप हमारी सहमति देते हैं"
+ },
+ "license.title": {
+  "en": "License | News Today - Leading News & Media",
+  "hi": "लाइसेंस | News Today - अग्रणी समाचार और मीडिया"
+ },
+ "shop.title": {
+  "en": "Shop | News Today - Leading News & Media",
+  "hi": "दुकान | News Today - अग्रणी समाचार और मीडिया"
+ },
+ "shop.heading": {
+  "en": "Shop with us",
+  "hi": "हमारे साथ खरीदारी करें"
+ },
+ "styleguide.title": {
+  "en": "Styleguide | News Today - Leading News & Media",
+  "hi": "स्टाइलगाइड | News Today - अग्रणी समाचार और मीडिया"
+ },
+ "styleguide.heading": {
+  "en": "Styleguide",
+  "hi": "स्टाइलगाइड"
+ },
+ "subscription.title": {
+  "en": "Subscription | News Today - Leading News & Media",
+  "hi": "सदस्यता | News Today - अग्रणी समाचार और मीडिया"
+ },
+ "subscription.heading": {
+  "en": "Our subscription plans",
+  "hi": "हमारी सदस्यता योजनाएं"
+ },
+ "terms.title": {
+  "en": "Terms & Conditions | News Today - Leading News & Media",
+  "hi": "नियम एवं शर्तें | News Today - अग्रणी समाचार और मीडिया"
+ },
+ "form.required": {
+  "en": "* Required",
+  "hi": "* अनिवार्य"
+ },
+ "form.fullName": {
+  "en": "Full Name *",
+  "hi": "पूर्ण नाम *"
+ },
+ "form.street": {
+  "en": "Street Address *",
+  "hi": "गली का पता *"
+ },
+ "form.city": {
+  "en": "City *",
+  "hi": "शहर *"
+ },
+ "form.state": {
+  "en": "State/Province",
+  "hi": "राज्य/प्रांत"
+ },
+ "form.zip": {
+  "en": "Zip/Postal Code *",
+  "hi": "ज़िप/डाक कोड *"
+ },
+ "form.country": {
+  "en": "Country *",
+  "hi": "देश *"
+ },
+ "nav.india": {
+  "en": "India",
+  "hi": "भारत"
+ },
+ "editor.owner": {
+  "en": "Editor-in-Chief & Owner",
+  "hi": "संपादक-प्रमुख एवं स्वामी"
+ },
+ "contact.formHeading": {
+  "en": "Contact Form",
+  "hi": "संपर्क फॉर्म"
+ },
+ "contact.respondTime": {
+  "en": "We aim to respond to all messages within 24–48 hours.",
+  "hi": "हम 24-48 घंटों के भीतर सभी संदेशों का जवाब देने का लक्ष्य रखते हैं।"
+ },
+ "contact.joinCommunity": {
+  "en": "Join our growing community — where stories inform, inspire, and connect.",
+  "hi": "हमारे बढ़ते समुदाय से जुड़ें — जहां कहानियां सूचित, प्रेरित और जोड़ती हैं।"
+ },
+ "contact.addressLine": {
+  "en": "Bhikhanpur, Bhagalpur, Bihar, India",
+  "hi": "भीखनपुर, भागलपुर, बिहार, भारत"
+ },
+ "home.metaTitle": {
+  "en": "News Today | Bhagalpur Latest News",
+  "hi": "News Today | भागलपुर ताज़ा ख़बरें"
+ },
+ "home.heroDesc": {
+  "en": "World leaders gathered in Geneva to discuss urgent actions for global warming, pledging new commitments to renewable energy and emission reduction by 2030.",
+  "hi": "विश्व नेताओं ने जिनेवा में वैश्विक तापन के लिए तत्काल कार्रवाई पर चर्चा की, नवीकरणीय ऊर्जा और 2030 तक उत्सर्जन कम करने के नए प्रतिबद्धता जताई।"
+ },
+ "home.aiTech": {
+  "en": "AI TECH",
+  "hi": "एआई टेक"
+ },
+ "home.followUs": {
+  "en": "Follow us for",
+  "hi": "हमारे साथ जुड़ें"
+ },
+ "home.realTimeUpdates": {
+  "en": "real-time updates",
+  "hi": "रियल-टाइम अपडेट"
+ },
+ "home.breakingStories": {
+  "en": "and breaking stories from around the world.",
+  "hi": "और दुनिया भर की ब्रेकिंग खबरें।"
+ },
+ "home.readFullStory": {
+  "en": "Read full story",
+  "hi": "पूरी खबर पढ़ें"
+ },
+ "home.allFrom": {
+  "en": "All from",
+  "hi": "सभी से"
+ },
+ "home.getUpdates": {
+  "en": "Get updates on the go — connect with us across your favorite social networks.",
+  "hi": "चलते-फिरते अपडेट पाएं — अपने पसंदीदा सोशल नेटवर्क पर हमसे जुड़ें।"
+ },
+ "home.keepUp": {
+  "en": "Keep up with the latest news — be part of our audience on social media.",
+  "hi": "ताज़ा खबरों से अपडेट रहें — सोशल मीडिया पर हमारे दर्शकों का हिस्सा बनें।"
+ },
+ "home.stayInformed": {
+  "en": "Stay informed wherever you are — join our community of readers and followers across social platforms.",
+  "hi": "जहां भी हों, सूचित रहें — सोशल प्लेटफॉर्म पर हमारे पाठकों और फॉलोअर्स के समुदाय से जुड़ें।"
+ },
+ "cat.health": {
+  "en": "Health",
+  "hi": "स्वास्थ्य"
+ },
+ "cat.wellness": {
+  "en": "Wellness",
+  "hi": "वेलनेस"
+ },
+ "cat.climateChange": {
+  "en": "Climate Change",
+  "hi": "जलवायु परिवर्तन"
+ },
+ "cat.astronomy": {
+  "en": "Astronomy",
+  "hi": "खगोल विज्ञान"
+ },
+ "cat.movies": {
+  "en": "Movies",
+  "hi": "फिल्में"
+ },
+ "cat.tennis": {
+  "en": "Tennis",
+  "hi": "टेनिस"
+ },
+ "cat.esports": {
+  "en": "Esports",
+  "hi": "ईस्पोर्ट्स"
+ },
+ "cat.streaming": {
+  "en": "Streaming",
+  "hi": "स्ट्रीमिंग"
+ },
+ "cat.food": {
+  "en": "Food",
+  "hi": "भोजन"
+ },
+ "cat.travel": {
+  "en": "Travel",
+  "hi": "यात्रा"
+ },
+ "cat.remoteWork": {
+  "en": "Remote Work",
+  "hi": "रिमोट वर्क"
+ },
+ "faq.q1": {
+  "en": "What is The Daily Placeholder?",
+  "hi": "The Daily Placeholder क्या है?"
+ },
+ "faq.a1": {
+  "en": "Quas vel perferendis accusantium eum cum voluptates libero doloribus voluptates. A et quia qui quia. Sunt tempore est sit facilis. Ducimus est ut neque sunt eum iusto. Consequatur quia occaecati enim omnis repudiandae labore.",
+  "hi": "यह एक प्लेसहोल्डर उत्तर है।"
+ },
+ "faq.q2": {
+  "en": "Can I contribute or submit an article?",
+  "hi": "क्या मैं लेख योगदान या सबमिट कर सकता हूं?"
+ },
+ "faq.a2": {
+  "en": "Aut dicta iusto neque ea voluptates. Id cupiditate cum sequi eum neque dolorem dicta quisquam non.",
+  "hi": "हां, आप हमें संपर्क पेज के माध्यम से लेख सबमिट कर सकते हैं।"
+ },
+ "faq.q3": {
+  "en": "How can I subscribe to your newsletter?",
+  "hi": "मैं आपके न्यूज़लेटर की सदस्यता कैसे ले सकता हूं?"
+ },
+ "faq.a3": {
+  "en": "You can subscribe using the email subscription form in the footer.",
+  "hi": "आप फुटर में ईमेल सब्सक्रिप्शन फॉर्म का उपयोग करके सदस्यता ले सकते हैं।"
+ },
+ "faq.q4": {
+  "en": "How do you ensure the accuracy of your news?",
+  "hi": "आप अपनी खबरों की सटीकता कैसे सुनिश्चित करते हैं?"
+ },
+ "faq.a4": {
+  "en": "Our editorial team verifies all facts before publishing.",
+  "hi": "हमारी संपादकीय टीम प्रकाशित करने से पहले सभी तथ्यों का सत्यापन करती है।"
+ },
+ "faq.q5": {
+  "en": "Is The Daily Placeholder affiliated?",
+  "hi": "क्या The Daily Placeholder संबद्ध है?"
+ },
+ "faq.a5": {
+  "en": "It is an independent news platform.",
+  "hi": "यह एक स्वतंत्र समाचार मंच है।"
+ },
+ "faq.q6": {
+  "en": "How often is the website updated?",
+  "hi": "वेबसाइट कितनी बार अपडेट होती है?"
+ },
+ "faq.a6": {
+  "en": "The website is updated multiple times daily with breaking news.",
+  "hi": "वेबसाइट ब्रेकिंग न्यूज़ के साथ दिन में कई बार अपडेट होती है।"
+ },
+ "footer.subscriptionLink": {
+  "en": "Subscription Plans",
+  "hi": "सदस्यता योजनाएं"
+ },
+ "form.name": {
+  "en": "Name*",
+  "hi": "नाम*"
+ },
+ "form.email": {
+  "en": "Email*",
+  "hi": "ईमेल*"
+ },
+ "form.phone": {
+  "en": "Phone*",
+  "hi": "फोन*"
+ },
+ "form.message": {
+  "en": "Message*",
+  "hi": "संदेश*"
+ },
+ "contact.privacyLink": {
+  "en": "Privacy Policy.",
+  "hi": "गोपनीयता नीति।"
+ },
+ "author.editor": {
+  "en": "Editor-in-Chief",
+  "hi": "संपादक-प्रमुख"
+ },
+ "cat.sportsEnt": {
+  "en": "Sports and Entertainment",
+  "hi": "खेल और मनोरंजन"
+ },
+ "cat.economyGlobal": {
+  "en": "Economy / Global Markets",
+  "hi": "अर्थव्यवस्था / वैश्विक बाजार"
+ }
+}

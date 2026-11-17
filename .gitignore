@@ -1,0 +1,16 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+
+# Editor & IDE Directories
+.vscode/
+.idea/
+*.swp
+*~
+
+# Scratch & Logs
+*.log
+scratch/
+assets/js/extracted_strings.txt
