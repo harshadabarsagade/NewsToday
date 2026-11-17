@@ -165,7 +165,7 @@
  },
  "footer.ctaSubtext": {
   "en": "Stay informed wherever you are — join our growing community of readers and followers across social platforms.",
-  "hi": "Stay informed wherever you are — join our growing community of readers and followers across social platforms."
+  "hi": "जहाँ भी हों, जानकारी से जुड़े रहें — सोशल प्लेटफ़ॉर्म पर हमारे बढ़ते पाठक समुदाय से जुड़ें।"
  },
  "footer.subscribePart1": {
   "en": "Subscribe to our newsletter to",
@@ -448,19 +448,19 @@
   "hi": "News Today भिक्खनपुर, भागलपुर, बिहार में स्थित एक आधुनिक समाचार पत्र और मीडिया आउटलेट है। तेज़, रिस्पॉन्सिव लेआउट के साथ ब्रेकिंग न्यूज़, गहरी कहानियाँ और आकर्षक पत्रकारिता प्रदान करता है।"
  },
  "top.label1": {
-  "en": "ब्रेकिंग न्यूज़: बाज़ारों में नई आर्थिक नीतियों का असर",
+  "en": "Breaking News: New economic policies shake the markets",
   "hi": "ब्रेकिंग न्यूज़: बाज़ारों में नई आर्थिक नीतियों का असर"
  },
  "top.label2": {
-  "en": "चुनाव 2025: शुरुआती रुझानों में चौंकाने वाले नतीजे",
+  "en": "Election 2025: Surprising results in early trends",
   "hi": "चुनाव 2025: शुरुआती रुझानों में चौंकाने वाले नतीजे"
  },
  "top.label3": {
-  "en": "तकनीक: दिग्गज टेक कंपनी ने पेश किया अगली पीढ़ी का एआई चिप",
+  "en": "Technology: Tech giant unveils next-generation AI chip",
   "hi": "तकनीक: दिग्गज टेक कंपनी ने पेश किया अगली पीढ़ी का एआई चिप"
  },
  "top.label4": {
-  "en": "शिक्षा: नई राष्ट्रीय शिक्षा नीति में बड़े सुधारों की घोषणा",
+  "en": "Education: Major reforms announced in the new national education policy",
   "hi": "शिक्षा: नई राष्ट्रीय शिक्षा नीति में बड़े सुधारों की घोषणा"
  },
  "404.title": {
@@ -794,5 +794,9 @@
  "cat.economyGlobal": {
   "en": "Economy / Global Markets",
   "hi": "अर्थव्यवस्था / वैश्विक बाजार"
+ },
+ "cat.ourTeam": {
+  "en": "Our Team",
+  "hi": "हमारी टीम"
  }
 }
