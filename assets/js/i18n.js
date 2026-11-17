@@ -53,7 +53,8 @@
         "travel": "यात्रा",
         "remoteWork": "रिमोट वर्क",
         "sportsEnt": "खेल और मनोरंजन",
-        "economyGlobal": "अर्थव्यवस्था / वैश्विक बाजार"
+        "economyGlobal": "अर्थव्यवस्था / वैश्विक बाजार",
+        "ourTeam": "हमारी टीम"
       },
       ui: {
         "seeAll": "सभी देखें",
@@ -97,6 +98,19 @@
         "ui.legalLinks": "महत्वपूर्ण लिंक",
         "ui.contactOffice": "संपर्क कार्यालय",
         "ui.date": "रविवार, 26 अक्टूबर 2025",
+        "art.headline": "नवीकरणीय ऊर्जा भंडारण में सफलता वैश्विक बिजली आपूर्ति को बदल सकती है",
+        "art.author": "रवि कुमार",
+        "art.date": "24 नवंबर, 2025",
+        "art.body.p0": "इस सप्ताह वैश्विक शेयर बाजारों में तेजी आई क्योंकि निवेशकों ने नए डेटा पर सकारात्मक प्रतिक्रिया दी जिसमें पता चला कि संयुक्त राज्य अमेरिका और अन्य बड़ी अर्थव्यवस्थाओं में मुद्रास्फीति ठंडी हो रही है, जिससे केंद्रीय बैंकों द्वारा लंबे समय तक मौद्रिक कसने के डर को कम किया गया है।",
+        "art.body.p1": "डाउ जोन्स इंडस्ट्रियल एवरेज 2.4% से अधिक चढ़ा, जो जून के बाद का सबसे बड़ा साप्ताहिक लाभ है, जबकि एसएंडपी 500 और नैस्डैक कंपोजिट क्रमशः 2.1% और 2.8% बढ़े। यूरोपीय और एशियाई बाजारों ने भी इसका अनुसरण किया, जहां एफटीएसई 100, डैक्स और निक्केई 225 सभी ऊंचे पर बंद हुए क्योंकि वैश्विक एक्सचेंजों में निवेशक भावना में सुधार हुआ। अमेरिकी श्रम सांख्यिकी ब्यूरो की नवीनतम रिपोर्ट के अनुसार, उपभोक्ता मूल्य सूचकांक (सीपीआई) सितंबर में सिर्फ 0.2% बढ़ा, जिससे वार्षिक मुद्रास्फीति दर घटकर 3.1% रह गई — अर्थशास्त्रियों की उम्मीदों से थोड़ा कम। मूल्य वृद्धि में स्थिर गिरावट ने उम्मीदें बढ़ाई हैं कि फेडरल रिजर्व जल्द ही अपनी आक्रामक ब्याज दर नीति में ढील देना शुरू कर सकता है।",
+        "art.body.p2": "“यह मुद्रास्फीति के दबाव के स्थिर होने का स्पष्ट संकेत है,” ग्लोबलएज कैपिटल में वरिष्ठ बाजार विश्लेषक जेनेट हॉवेल ने कहा। “निवेशकों को विश्वास होने लगा है कि फेड वास्तव में एक सॉफ्ट लैंडिंग हासिल कर सकता है — मंदी का कारण बने बिना मुद्रास्फीति को धीमा करना।”",
+        "art.body.p3": "डाउ जोन्स इंडस्ट्रियल एवरेज 2.4% से अधिक चढ़ा, जो जून के बाद का सबसे बड़ा साप्ताहिक लाभ है, जबकि एसएंडपी 500 और नैस्डैक कंपोजिट क्रमशः 2.1% और 2.8% बढ़े। यूरोपीय और एशियाई बाजारों ने भी इसका अनुसरण किया, जहां एफटीएसई 100, डैक्स और निक्केई 225 सभी ऊंचे पर बंद हुए क्योंकि वैश्विक एक्सचेंजों में निवेशक भावना में सुधार हुआ। अमेरिकी श्रम सांख्यिकी ब्यूरो की नवीनतम रिपोर्ट के अनुसार, उपभोक्ता मूल्य सूचकांक (सीपीआई) सितंबर में सिर्फ 0.2% बढ़ा, जिससे वार्षिक मुद्रास्फीति दर घटकर 3.1% रह गई — अर्थशास्त्रियों की उम्मीदों से थोड़ा कम। मूल्य वृद्धि में स्थिर गिरावट ने उम्मीदें बढ़ाई हैं कि फेडरल रिजर्व जल्द ही अपनी आक्रामक ब्याज दर नीति में ढील देना शुरू कर सकता है।",
+        "art.body.p4": "“यह मुद्रास्फीति के दबाव के स्थिर होने का स्पष्ट संकेत है,” ग्लोबलएज कैपिटल में वरिष्ठ बाजार विश्लेषक जेनेट हॉवेल ने कहा। “निवेशकों को विश्वास होने लगा है कि फेड वास्तव में एक सॉफ्ट लैंडिंग हासिल कर सकता है — मंदी का कारण बने बिना मुद्रास्फीति को धीमा करना।”",
+        "art.body.p5": "डाउ जोन्स इंडस्ट्रियल एवरेज 2.4% से अधिक चढ़ा, जो जून के बाद का सबसे बड़ा साप्ताहिक लाभ है, जबकि एसएंडपी 500 और नैस्डैक कंपोजिट क्रमशः 2.1% और 2.8% बढ़े। यूरोपीय और एशियाई बाजारों ने भी इसका अनुसरण किया, जहां एफटीएसई 100, डैक्स और निक्केई 225 सभी ऊंचे पर बंद हुए क्योंकि वैश्विक एक्सचेंजों में निवेशक भावना में सुधार हुआ। अमेरिकी श्रम सांख्यिकी ब्यूरो की नवीनतम रिपोर्ट के अनुसार, उपभोक्ता मूल्य सूचकांक (सीपीआई) सितंबर में सिर्फ 0.2% बढ़ा, जिससे वार्षिक मुद्रास्फीति दर घटकर 3.1% रह गई — अर्थशास्त्रियों की उम्मीदों से थोड़ा कम। मूल्य वृद्धि में स्थिर गिरावट ने उम्मीदें बढ़ाई हैं कि फेडरल रिजर्व जल्द ही अपनी आक्रामक ब्याज दर नीति में ढील देना शुरू कर सकता है।",
+        "art.body.p6": "“यह मुद्रास्फीति के दबाव के स्थिर होने का स्पष्ट संकेत है,” ग्लोबलएज कैपिटल में वरिष्ठ बाजार विश्लेषक जेनेट हॉवेल ने कहा। “निवेशकों को विश्वास होने लगा है कि फेड वास्तव में एक सॉफ्ट लैंडिंग हासिल कर सकता है — मंदी का कारण बने बिना मुद्रास्फीति को धीमा करना।”",
+        "art.h4.0": "वैश्विक विश्वास मजबूत हो रहा है।",
+        "art.h4.1": "टेक और वित्तीय शेयर रैली का नेतृत्व कर रहे हैं।",
+        "art.h4.2": "निवेशकों के कैलेंडर पर अगली बड़ी घटना आगामी फेडरल ओपन मार्केट कमेटी (एफओएमसी) बैठक 2026 में है।",
         "cat.business": "व्यवसाय",
         "cat.environment": "पर्यावरण",
         "cat.scienceEnvironment": "विज्ञान एवं पर्यावरण",
@@ -189,7 +203,8 @@
         "contact.privacyLink": "गोपनीयता नीति।",
         "author.editor": "संपादक-प्रमुख",
         "cat.sportsEnt": "खेल और मनोरंजन",
-        "cat.economyGlobal": "अर्थव्यवस्था / वैश्विक बाजार"
+        "cat.economyGlobal": "अर्थव्यवस्था / वैश्विक बाजार",
+        "cat.ourTeam": "हमारी टीम"
       },
       footer: {
         "editorialTeam": "संपादकीय टीम",
@@ -201,7 +216,7 @@
         "phone": "फोन: +91 99731 89133",
         "email": "ईमेल: contact@newstoday.com",
         "ctaTitle": "10 लाख से अधिक जागरूक पाठकों के साथ जुड़ें - कोई बड़ी खबर न चूकें।",
-        "ctaSubtext": "Stay informed wherever you are — join our growing community of readers and followers across social platforms.",
+        "ctaSubtext": "जहाँ भी हों, जानकारी से जुड़े रहें — सोशल प्लेटफ़ॉर्म पर हमारे बढ़ते पाठक समुदाय से जुड़ें।",
         "subscribePart1": "दैनिक मुख्य समाचारों से जुड़े रहने के लिए",
         "subscribePart2": "न्यूज़लेटर सब्सक्राइब करें।",
         "formPlaceholder": "अपना ईमेल दर्ज करें",
@@ -303,7 +318,8 @@
         "travel": "Travel",
         "remoteWork": "Remote Work",
         "sportsEnt": "Sports and Entertainment",
-        "economyGlobal": "Economy / Global Markets"
+        "economyGlobal": "Economy / Global Markets",
+        "ourTeam": "Our Team"
       },
       ui: {
         "seeAll": "See All",
@@ -347,6 +363,19 @@
         "ui.legalLinks": "Legal Links",
         "ui.contactOffice": "Contact Office",
         "ui.date": "Sunday, October 26, 2025",
+        "art.headline": "Breakthrough in Renewable Energy Storage Could Transform Global Power Supply",
+        "art.author": "Ravi Kumar",
+        "art.date": "November 24, 2025",
+        "art.body.p0": "Global stock markets rallied sharply this week as investors reacted positively to new data showing that inflation in the United States and other major economies has continued to cool, easing fears of prolonged monetary tightening by central banks.",
+        "art.body.p1": "The Dow Jones Industrial Average climbed more than 2.4%, its strongest weekly gain since June, while the S&P 500 and Nasdaq Composite each jumped 2.1% and 2.8%, respectively. European and Asian markets followed suit, with the FTSE 100, DAX, and Nikkei 225 all closing higher as investor sentiment improved across global exchanges. According to the latest report from the U.S. Bureau of Labor Statistics, the Consumer Price Index (CPI) rose by just 0.2% in September, bringing the annual inflation rate down to 3.1% — slightly below economists’ expectations. The steady decline in price growth has raised hopes that the Federal Reserve may soon begin to ease its aggressive interest rate policy.",
+        "art.body.p2": "“This is a clear signal that inflationary pressures are stabilizing,” said Janet Howell, Senior Market Analyst at GlobalEdge Capital. “Investors are starting to believe the Fed might actually pull off a soft landing — slowing inflation without causing a recession.”",
+        "art.body.p3": "The Dow Jones Industrial Average climbed more than 2.4%, its strongest weekly gain since June, while the S&P 500 and Nasdaq Composite each jumped 2.1% and 2.8%, respectively. European and Asian markets followed suit, with the FTSE 100, DAX, and Nikkei 225 all closing higher as investor sentiment improved across global exchanges. According to the latest report from the U.S. Bureau of Labor Statistics, the Consumer Price Index (CPI) rose by just 0.2% in September, bringing the annual inflation rate down to 3.1% — slightly below economists’ expectations. The steady decline in price growth has raised hopes that the Federal Reserve may soon begin to ease its aggressive interest rate policy.",
+        "art.body.p4": "“This is a clear signal that inflationary pressures are stabilizing,” said Janet Howell, Senior Market Analyst at GlobalEdge Capital. “Investors are starting to believe the Fed might actually pull off a soft landing — slowing inflation without causing a recession.”",
+        "art.body.p5": "The Dow Jones Industrial Average climbed more than 2.4%, its strongest weekly gain since June, while the S&P 500 and Nasdaq Composite each jumped 2.1% and 2.8%, respectively. European and Asian markets followed suit, with the FTSE 100, DAX, and Nikkei 225 all closing higher as investor sentiment improved across global exchanges. According to the latest report from the U.S. Bureau of Labor Statistics, the Consumer Price Index (CPI) rose by just 0.2% in September, bringing the annual inflation rate down to 3.1% — slightly below economists’ expectations. The steady decline in price growth has raised hopes that the Federal Reserve may soon begin to ease its aggressive interest rate policy.",
+        "art.body.p6": "“This is a clear signal that inflationary pressures are stabilizing,” said Janet Howell, Senior Market Analyst at GlobalEdge Capital. “Investors are starting to believe the Fed might actually pull off a soft landing — slowing inflation without causing a recession.”",
+        "art.h4.0": "Global Confidence Strengthens.",
+        "art.h4.1": "Tech and Financial Stocks Lead the Rally.",
+        "art.h4.2": "The next major event on investors’ calendars is the upcoming Federal Open Market Committee (FOMC) meeting into 2026.",
         "cat.business": "Business",
         "cat.environment": "Environment",
         "cat.scienceEnvironment": "Science & Environment",
@@ -354,10 +383,10 @@
         "cat.globalNews": "Global News",
         "index.title": "News Today - Daily Breaking News, Stories & Headlines",
         "index.desc": "News Today is a modern newspaper and media outlet based in Bhikhanpur, Bhagalpur, Bihar. Deliver breaking news, in-depth stories, and engaging journalism with a fast, responsive layout.",
-        "top.label1": "ब्रेकिंग न्यूज़: बाज़ारों में नई आर्थिक नीतियों का असर",
-        "top.label2": "चुनाव 2025: शुरुआती रुझानों में चौंकाने वाले नतीजे",
-        "top.label3": "तकनीक: दिग्गज टेक कंपनी ने पेश किया अगली पीढ़ी का एआई चिप",
-        "top.label4": "शिक्षा: नई राष्ट्रीय शिक्षा नीति में बड़े सुधारों की घोषणा",
+        "top.label1": "Breaking News: New economic policies shake the markets",
+        "top.label2": "Election 2025: Surprising results in early trends",
+        "top.label3": "Technology: Tech giant unveils next-generation AI chip",
+        "top.label4": "Education: Major reforms announced in the new national education policy",
         "404.title": "Not Found | News Today - Leading News & Media",
         "404.heading": "Oops! Page Not Found",
         "404.desc": "Looks like the news took a different route. The page you’re trying to access might have been moved, deleted, or temporarily unavailable.",
@@ -439,7 +468,8 @@
         "contact.privacyLink": "Privacy Policy.",
         "author.editor": "Editor-in-Chief",
         "cat.sportsEnt": "Sports and Entertainment",
-        "cat.economyGlobal": "Economy / Global Markets"
+        "cat.economyGlobal": "Economy / Global Markets",
+        "cat.ourTeam": "Our Team"
       },
       footer: {
         "editorialTeam": "Editorial Team",
@@ -579,6 +609,7 @@
       else if (key.indexOf('cat.') === 0 && t.cat && t.cat[key.slice(4)] !== undefined) val = t.cat[key.slice(4)];
       else if (key.indexOf('ui.') === 0 && t.ui && t.ui[key.slice(3)] !== undefined) val = t.ui[key.slice(3)];
       else if (key.indexOf('footer.') === 0 && t.footer && t.footer[key.slice(7)] !== undefined) val = t.footer[key.slice(7)];
+      else if (key.indexOf('art.title.') === 0 && t.artTitles && t.artTitles[key.slice(10)] !== undefined) val = t.artTitles[key.slice(10)];
       if (val !== null && val !== undefined) el.textContent = val;
     });
 
@@ -620,6 +651,7 @@
   }
 
   function swapArticleContent(lang) {
+    var t = translations[lang] || translations.hi;
     var isPost = document.querySelector('.news-details-heading') || document.querySelector('.world-news-title');
     if (!isPost) return;
     var slug = null;

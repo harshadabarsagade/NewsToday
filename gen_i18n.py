@@ -38,7 +38,7 @@ for k, v in TR.items():
 # Page map
 page_map = {}
 for k, v in TR.items():
-    if k not in nav_map and k not in cat_map and k not in ui_map and not k.startswith("footer.") and not k.startswith("art."):
+    if k not in nav_map and k not in cat_map and k not in ui_map and not k.startswith("footer.") and not k.startswith("art.title."):
         page_map[k] = v
 
 lines = []
@@ -164,6 +164,7 @@ lines.append("      else if (key.indexOf('nav.') === 0 && t.nav && t.nav[key.sli
 lines.append("      else if (key.indexOf('cat.') === 0 && t.cat && t.cat[key.slice(4)] !== undefined) val = t.cat[key.slice(4)];")
 lines.append("      else if (key.indexOf('ui.') === 0 && t.ui && t.ui[key.slice(3)] !== undefined) val = t.ui[key.slice(3)];")
 lines.append("      else if (key.indexOf('footer.') === 0 && t.footer && t.footer[key.slice(7)] !== undefined) val = t.footer[key.slice(7)];")
+lines.append("      else if (key.indexOf('art.title.') === 0 && t.artTitles && t.artTitles[key.slice(10)] !== undefined) val = t.artTitles[key.slice(10)];")
 lines.append("      if (val !== null && val !== undefined) el.textContent = val;")
 lines.append("    });")
 lines.append("")
@@ -204,7 +205,7 @@ lines.append("      else item.classList.remove('active');")
 lines.append("    });")
 lines.append("  }")
 lines.append("")
-lines.append("  function swapArticleContent(lang) {")
+lines.append("  function swapArticleContent(lang) {\n    var t = translations[lang] || translations.hi;")
 lines.append("    var isPost = document.querySelector('.news-details-heading') || document.querySelector('.world-news-title');")
 lines.append("    if (!isPost) return;")
 lines.append("    var slug = null;")
