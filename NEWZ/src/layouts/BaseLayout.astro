@@ -20,6 +20,7 @@ const jsonLd = [
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <meta name="description" content={description} />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="canonical" href={canonical || `${baseUrl}/${lang}/`} />
     {languages.map((item) => <link rel="alternate" hreflang={item.code} href={alternate(item.code)} />)}
     <link rel="alternate" hreflang="x-default" href={`${baseUrl}/en/`} />
@@ -39,7 +40,7 @@ const jsonLd = [
       <nav class="nav" aria-label={labels.menu}><div class="wrap"><a href={`/${lang}/`}>{labels.home}</a>{categories.map((category) => <a href={`/${lang}/category/${category.slug}/`}>{lang === 'hi' ? category.hi : category.en}</a>)}<a href={`/${lang}/checkout/`}>{labels.checkout}</a></div></nav>
     </header>
     <main id="content" class="wrap"><slot /></main>
-    <footer class="footer"><div class="wrap"><div><strong>News Today</strong><br /><small>{labels.footer}</small></div><div class="switcher" aria-expanded="false"><button type="button" aria-label={labels.switch}>EN / HI</button><ul>{languages.map((item) => <li><a href={`/${item.code}/`} lang={item.code}>{item.code === 'hi' && !hi ? 'Hindi' : item.nativeName}</a></li>)}</ul></div></div></footer>
+    <footer class="footer"><div class="wrap"><div><img src="/images/news-today-main-logo.webp" alt="News Today Logo" style="height: 46px; width: auto; max-width: 150px; object-fit: contain; background: #ffffff; padding: 2px 6px; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); margin-bottom: 6px; display: inline-block;" /><br /><small>{labels.footer}</small></div><div class="switcher" aria-expanded="false"><button type="button" aria-label={labels.switch}>EN / HI</button><ul>{languages.map((item) => <li><a href={`/${item.code}/`} lang={item.code}>{item.code === 'hi' && !hi ? 'Hindi' : item.nativeName}</a></li>)}</ul></div></div></footer>
     <script defer is:inline>
       const switches = document.querySelectorAll('.switcher');
       switches.forEach((root) => { const button = root.querySelector('button'); button?.addEventListener('click', () => root.setAttribute('aria-expanded', root.getAttribute('aria-expanded') !== 'true' ? 'true' : 'false')); root.querySelectorAll('a[lang]').forEach((link) => link.addEventListener('click', () => { try { localStorage.setItem('news-today-language', link.getAttribute('lang')); document.cookie = `news-today-language=${link.getAttribute('lang')}; Max-Age=31536000; Path=/; SameSite=Lax`; } catch {} })); document.addEventListener('keydown', (event) => { if (event.key === 'Escape') root.setAttribute('aria-expanded', 'false'); }); });
