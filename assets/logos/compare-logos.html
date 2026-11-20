@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>News Today - Logo Comparison & Options (लोगो विकल्प)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cabinet+Grotesk:wght@800;900&family=Inter:wght@400;600;700;800;900&family=Noto+Sans+Devanagari:wght@500;700;900&family=Playfair+Display:ital,wght@0,700;0,900;1,700&display=swap" rel="stylesheet">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background-color: #0F172A;
+      color: #E2E8F0;
+      padding: 40px 20px 80px 20px;
+    }
+    .container {
+      max-width: 1040px;
+      margin: 0 auto;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 40px;
+      padding-bottom: 24px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+    .badge {
+      display: inline-block;
+      background: #E53935;
+      color: #fff;
+      font-size: 12px;
+      font-weight: 700;
+      padding: 4px 12px;
+      border-radius: 999px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      margin-bottom: 12px;
+    }
+    h1 {
+      font-size: 32px;
+      font-weight: 900;
+      color: #FFFFFF;
+      margin-bottom: 10px;
+      letter-spacing: -0.02em;
+    }
+    p.subtitle {
+      font-size: 16px;
+      color: #94A3B8;
+      max-width: 680px;
+      margin: 0 auto;
+      line-height: 1.6;
+    }
+    .meta-box {
+      margin-top: 24px;
+      background: rgba(30, 41, 59, 0.7);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 12px;
+      padding: 16px 24px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      gap: 16px;
+      font-size: 14px;
+    }
+    .meta-item strong {
+      color: #F8FAFC;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 32px;
+      margin-top: 36px;
+    }
+    .card {
+      background: #1E293B;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.4);
+      transition: transform 0.2s ease, border-color 0.2s ease;
+    }
+    .card:hover {
+      border-color: #E53935;
+      transform: translateY(-2px);
+    }
+    .card-header {
+      padding: 18px 24px;
+      background: rgba(15, 23, 42, 0.6);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    }
+    .card-header h2 {
+      font-size: 18px;
+      font-weight: 700;
+      color: #F8FAFC;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .tag {
+      font-size: 12px;
+      padding: 3px 10px;
+      border-radius: 6px;
+      font-weight: 600;
+      background: rgba(229, 57, 53, 0.2);
+      color: #FF6B6B;
+    }
+    .preview-stage {
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+    .preview-box {
+      border-radius: 10px;
+      padding: 24px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 120px;
+    }
+    .preview-box.light {
+      background: #FFFFFF;
+      box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.06);
+    }
+    .preview-box.dark {
+      background: #09090B;
+      box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.1);
+    }
+    .preview-box img, .preview-box svg {
+      max-width: 100%;
+      height: 70px;
+      object-fit: contain;
+    }
+    .details {
+      padding: 18px 24px;
+      background: rgba(15, 23, 42, 0.3);
+      border-top: 1px solid rgba(255, 255, 255, 0.05);
+      font-size: 14px;
+      color: #CBD5E1;
+      line-height: 1.6;
+    }
+    .actions {
+      padding: 14px 24px;
+      background: rgba(15, 23, 42, 0.8);
+      display: flex;
+      gap: 12px;
+      justify-content: flex-end;
+    }
+    .btn {
+      display: inline-block;
+      text-decoration: none;
+      padding: 8px 16px;
+      border-radius: 6px;
+      font-size: 13px;
+      font-weight: 600;
+      transition: background 0.2s;
+    }
+    .btn-secondary {
+      background: rgba(255, 255, 255, 0.1);
+      color: #F8FAFC;
+    }
+    .btn-secondary:hover {
+      background: rgba(255, 255, 255, 0.2);
+    }
+    footer {
+      margin-top: 60px;
+      text-align: center;
+      font-size: 13px;
+      color: #64748B;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <header>
+      <div class="badge">Official Brand Identity Review</div>
+      <h1>News Today • Logo Options (लोगो विकल्प)</h1>
+      <p class="subtitle">
+        संपादक एवं स्वामी <strong>रवि शंकर सिन्हा (Ravi Shankar Sinha)</strong> के मार्गदर्शन में तुलना और अंतिम चयन हेतु 4 विशिष्ट लोगो डिजाइन तैयार किए गए हैं।
+      </p>
+
+      <div class="meta-box">
+        <div class="meta-item">👤 <strong>स्वामी/संपादक:</strong> Ravi Shankar Sinha (रवि शंकर सिन्हा)</div>
+        <div class="meta-item">✉️ <strong>ईमेल:</strong> ravingsinha25@gmail.com</div>
+        <div class="meta-item">📍 <strong>मुख्यालय:</strong> भीखनपुर, भागलपुर (बिहार)</div>
+      </div>
+    </header>
+
+    <div class="grid">
+
+      <!-- OPTION 1 -->
+      <div class="card">
+        <div class="card-header">
+          <h2>Option 1: Modern Crimson Badge (आधुनिक एवं सशक्त)</h2>
+          <span class="tag">Recommended for Digital & App</span>
+        </div>
+        <div class="preview-stage">
+          <div class="preview-box light">
+            <img src="logo-option-1.svg" alt="News Today Logo Option 1 Light">
+          </div>
+        </div>
+        <div class="details">
+          <strong>विशेषताएं:</strong> यह लोगो आधुनिक डिजिटल न्यूज़ पोर्टल (जैसे BBC / NDTV / Reuters) के स्टाइल पर आधारित है। इसमें सुर्ख लाल (Crimson Red) ग्रेडिएंट में ज्यामितीय 'N-T' और समाचार पत्र का फोल्ड प्रतीक है। साथ ही नीचे भागलपुर एवं राष्ट्रीय समाचार की स्पष्ट पहचान दी गई है।
+        </div>
+        <div class="actions">
+          <a href="logo-option-1.svg" download class="btn btn-secondary">Download SVG</a>
+        </div>
+      </div>
+
+      <!-- OPTION 2 -->
+      <div class="card">
+        <div class="card-header">
+          <h2>Option 2: Classic Heritage Masthead (पारंपरिक एवं प्रतिष्ठित)</h2>
+          <span class="tag">Editorial & Investigative</span>
+        </div>
+        <div class="preview-stage">
+          <div class="preview-box light">
+            <img src="logo-option-2.svg" alt="News Today Logo Option 2 Light">
+          </div>
+        </div>
+        <div class="details">
+          <strong>विशेषताएं:</strong> प्रतिष्ठित राष्ट्रीय अखबारों (The Hindu / New York Times) की तरह क्लासिक सेरिफ टाइपोग्राफी और कलम (Quill / Press Emblem) के साथ गोल्ड और नेवी टोन। यह खोजी पत्रकारिता, विश्वसनीयता और निष्पक्षता को उजागर करता है।
+        </div>
+        <div class="actions">
+          <a href="logo-option-2.svg" download class="btn btn-secondary">Download SVG</a>
+        </div>
+      </div>
+
+      <!-- OPTION 3 -->
+      <div class="card">
+        <div class="card-header">
+          <h2>Option 3: Dynamic 24x7 Broadcast (तेज़ और लाइव)</h2>
+          <span class="tag">Breaking News & Live Feed</span>
+        </div>
+        <div class="preview-stage">
+          <div class="preview-box light">
+            <img src="logo-option-3.svg" alt="News Today Logo Option 3 Light">
+          </div>
+        </div>
+        <div class="details">
+          <strong>विशेषताएं:</strong> ब्रॉडकास्ट मीडिया, लाइव सिग्नल वेव्स और 24×7 लाइव बैज के साथ हाई-एनर्जी डिजाइन। यह ब्रेकिंग न्यूज़, तेज़ गति से सटीक अपडेट देने वाले समाचार नेटवर्क के लिए बेहतरीन है।
+        </div>
+        <div class="actions">
+          <a href="logo-option-3.svg" download class="btn btn-secondary">Download SVG</a>
+        </div>
+      </div>
+
+      <!-- OPTION 4 -->
+      <div class="card">
+        <div class="card-header">
+          <h2>Option 4: Bilingual Hindi-English Prestige (द्विभाषी संस्करण)</h2>
+          <span class="tag">Regional & National Harmony</span>
+        </div>
+        <div class="preview-stage">
+          <div class="preview-box light">
+            <img src="logo-option-4.svg" alt="News Today Logo Option 4 Light">
+          </div>
+        </div>
+        <div class="details">
+          <strong>विशेषताएं:</strong> 'न्यूज़ टुडे' (देवनागरी) और 'NEWS TODAY' दोनों को एक साथ खूबसूरती से जोड़ता है। क्षेत्रीय पाठकों और राष्ट्रीय स्तर दोनों पर पहली नज़र में आसानी से पढ़ा जाने वाला संतुलित लोगो।
+        </div>
+        <div class="actions">
+          <a href="logo-option-4.svg" download class="btn btn-secondary">Download SVG</a>
+        </div>
+      </div>
+
+    </div>
+
+    <footer>
+      <p>© 2026 News Today. सर्वाधिकार सुरक्षित। • मुख्य संपादक: रवि शंकर सिन्हा (Ravi Shankar Sinha) • ravingsinha25@gmail.com</p>
+    </footer>
+  </div>
+
+</body>
+</html>

@@ -6,7 +6,7 @@ A modern, fast, fully independent, and responsive digital news website publicati
 - **100% Static & GitHub Pages Ready:** Completely independent static site designed to run cleanly on GitHub Pages or any static CDN.
 - **Bilingual Translation System:** Full site-wide localization between हिन्दी (Hindi - Default) and English without mixed-language artifacts.
 - **Editorial Category Icons:** Bold, crisp 36px Lucide SVG vector iconography across all section headers.
-- **Ravi Kumar Editorial Presence:** Single editor & owner profile integrated across header, team, and article metadata.
+- **Ravi Shankar Sinha Editorial Presence:** Single editor & owner profile integrated across header, team, and article metadata.
 - **Comprehensive Coverage:** 89 complete HTML pages spanning World News, Economy, Technology, Politics, Education, Sports, Lifestyle, Science & Health, and Opinion.
 - **Cleaned Navigation:** No extraneous promotional badges, templates, or external redirects.
 

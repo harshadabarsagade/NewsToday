@@ -5,11 +5,11 @@ This document summarizes the provenance and licensing audit of assets in the New
 ## 1. Photography & Editorial Imagery
 - **Status:** Demo / Editorial Stock Images from template export.
 - **Usage Recommendation:** While suitable for demo/staging, replace temporary stock images with original high-resolution photography or royalty-free licensed media (Unsplash, Pexels, CC0) prior to large-scale commercial publishing.
-- **Editor Profile Photo:** Enhanced custom portrait of Editor-in-Chief Ravi Kumar (`assets/cdn.prod.website-files.com/692401e8be8549a781fdbbad/ravi-kumar-editor.webp`) - Authorized for News Today publication.
+- **Editor Profile Photo:** Enhanced custom portrait of Editor-in-Chief Ravi Shankar Sinha (`assets/cdn.prod.website-files.com/692401e8be8549a781fdbbad/ravi-kumar-editor.webp`) - Authorized for News Today publication.
 
 ## 2. Branding & Trademarks
 - **Publication Name:** News Today (न्यूज़ टुडे)
-- **Publisher / Editor:** Ravi Kumar
+- **Publisher / Editor:** Ravi Shankar Sinha
 - **Head Office:** Bhikhanpur, Bhagalpur, Bihar, India
 - **Copyright Notice:** © 2026 News Today. All Rights Reserved. - Made By Mohit Raj & Team.
 

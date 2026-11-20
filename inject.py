@@ -19,7 +19,7 @@ FILES = sorted(glob.glob('*.html') + glob.glob('news-category/*.html') +
                glob.glob('product/*.html'))
 
 NON_TRANS = set(['•', '|', '/', '–', '—', '·'])
-PROPER = set(['News Today','Ravi Kumar','Janet Howell','GlobalEdge Capital',
+PROPER = set(['News Today','Ravi Shankar Sinha','Janet Howell','GlobalEdge Capital',
     'U.S. Bureau of Labor Statistics','Federal Reserve','Dow Jones','S&P','Nasdaq',
     'FTSE','DAX','Nikkei','FOMC','Mohit Raj','The Daily Placeholder','Inter','Inter Tight'])
 

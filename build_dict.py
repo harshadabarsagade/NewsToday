@@ -44,7 +44,7 @@ add("cat.globalStories", "Global Stories", "वैश्विक कहान�
 # ---------- UI ----------
 add("ui.seeAll", "See All", "सभी देखें")
 add("ui.viewProfile", "View Profile", "प्रोफाइल देखें")
-add("ui.owner", "Owner / Editor: Ravi Kumar", "स्वामी / संपादक: रवि कुमार")
+add("ui.owner", "Owner / Editor: Ravi Shankar Sinha", "स्वामी / संपादक: रवि शंकर सिन्हा")
 add("ui.quickLinks", "Quick Links", "मुख्य लिंक")
 add("ui.legalLinks", "Legal Links", "महत्वपूर्ण लिंक")
 add("ui.contactOffice", "Contact Office", "संपर्क कार्यालय")
@@ -57,7 +57,7 @@ add("footer.socialText", "Connect with us on social media:", "सोशल म�
 add("footer.allRightsReserved", "© 2026 News Today. All Rights Reserved. - Made By Mohit Raj & Team", "© 2026 News Today. सर्वाधिकार सुरक्षित। - मोहित राज एवं टीम द्वारा निर्मित")
 add("footer.headOffice", "Head Office: Bhikhanpur, Bhagalpur, Bihar, India", "कार्यालय: भीखनपुर, भागलपुर, बिहार, भारत")
 add("footer.phone", "Phone: +91 99731 89133", "फोन: +91 99731 89133")
-add("footer.email", "Email: contact@newstoday.com", "ईमेल: contact@newstoday.com")
+add("footer.email", "Email: ravingsinha25@gmail.com", "ईमेल: ravingsinha25@gmail.com")
 add("footer.ctaTitle", "Join over 1 million aware readers - don't miss any big news.", "10 लाख से अधिक जागरूक पाठकों के साथ जुड़ें - कोई बड़ी खबर न चूकें।")
 add("footer.ctaSubtext", "Stay informed wherever you are — join our growing community of readers and followers across social platforms.", "Stay informed wherever you are — join our growing community of readers and followers across social platforms.")
 add("footer.subscribePart1", "Subscribe to our newsletter to", "दैनिक मुख्य समाचारों से जुड़े रहने के लिए")
@@ -70,7 +70,7 @@ add("footer.formError", "Oops! Something went wrong while submitting the form.",
 
 # ---------- Article content (shared body) ----------
 add("art.headline", "Breakthrough in Renewable Energy Storage Could Transform Global Power Supply", "नवीकरणीय ऊर्जा भंडारण में सफलता वैश्विक बिजली आपूर्ति को बदल सकती है")
-add("art.author", "Ravi Kumar", "रवि कुमार")
+add("art.author", "Ravi Shankar Sinha", "रवि शंकर सिन्हा")
 add("art.date", "November 24, 2025", "24 नवंबर, 2025")
 add("art.body.p0", "Global stock markets rallied sharply this week as investors reacted positively to new data showing that inflation in the United States and other major economies has continued to cool, easing fears of prolonged monetary tightening by central banks.", "इस सप्ताह वैश्विक शेयर बाजारों में तेजी आई क्योंकि निवेशकों ने नए डेटा पर सकारात्मक प्रतिक्रिया दी जिसमें पता चला कि संयुक्त राज्य अमेरिका और अन्य बड़ी अर्थव्यवस्थाओं में मुद्रास्फीति ठंडी हो रही है, जिससे केंद्रीय बैंकों द्वारा लंबे समय तक मौद्रिक कसने के डर को कम किया गया है।")
 add("art.body.p1", "The Dow Jones Industrial Average climbed more than 2.4%, its strongest weekly gain since June, while the S&P 500 and Nasdaq Composite each jumped 2.1% and 2.8%, respectively. European and Asian markets followed suit, with the FTSE 100, DAX, and Nikkei 225 all closing higher as investor sentiment improved across global exchanges. According to the latest report from the U.S. Bureau of Labor Statistics, the Consumer Price Index (CPI) rose by just 0.2% in September, bringing the annual inflation rate down to 3.1% — slightly below economists’ expectations. The steady decline in price growth has raised hopes that the Federal Reserve may soon begin to ease its aggressive interest rate policy.", "डाउ जोन्स इंडस्ट्रियल एवरेज 2.4% से अधिक चढ़ा, जो जून के बाद का सबसे बड़ा साप्ताहिक लाभ है, जबकि एसएंडपी 500 और नैस्डैक कंपोजिट क्रमशः 2.1% और 2.8% बढ़े। यूरोपीय और एशियाई बाजारों ने भी इसका अनुसरण किया, जहां एफटीएसई 100, डैक्स और निक्केई 225 सभी ऊंचे पर बंद हुए क्योंकि वैश्विक एक्सचेंजों में निवेशक भावना में सुधार हुआ। अमेरिकी श्रम सांख्यिकी ब्यूरो की नवीनतम रिपोर्ट के अनुसार, उपभोक्ता मूल्य सूचकांक (सीपीआई) सितंबर में सिर्फ 0.2% बढ़ा, जिससे वार्षिक मुद्रास्फीति दर घटकर 3.1% रह गई — अर्थशास्त्रियों की उम्मीदों से थोड़ा कम। मूल्य वृद्धि में स्थिर गिरावट ने उम्मीदें बढ़ाई हैं कि फेडरल रिजर्व जल्द ही अपनी आक्रामक ब्याज दर नीति में ढील देना शुरू कर सकता है।")

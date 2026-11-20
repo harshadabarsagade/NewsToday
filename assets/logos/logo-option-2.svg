@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 90" width="100%" height="100%">
+  <!-- Traditional Editorial Masthead Style -->
+  <g transform="translate(10, 10)">
+    <!-- Heraldic / Press Quill Emblem -->
+    <circle cx="35" cy="35" r="33" fill="#0F172A"/>
+    <circle cx="35" cy="35" r="30" fill="none" stroke="#D4AF37" stroke-width="1.5"/>
+    <path d="M26 48 L44 22 L40 20 L22 46 Z" fill="#D4AF37"/>
+    <path d="M22 46 L20 52 L26 50 Z" fill="#FFFFFF"/>
+    <circle cx="35" cy="35" r="3" fill="#D4AF37"/>
+  </g>
+  <text x="94" y="44" font-family="'Playfair Display', 'Georgia', serif" font-weight="900" font-size="34" fill="#0F172A" letter-spacing="-0.02em">NEWS TODAY</text>
+  <line x1="94" y1="52" x2="430" y2="52" stroke="#D4AF37" stroke-width="2"/>
+  <text x="96" y="68" font-family="'Georgia', serif" font-style="italic" font-size="12" fill="#64748B" letter-spacing="0.1em">THE VOICE OF INTEGRITY &amp; TRUTH • EST. 2026</text>
+</svg>
