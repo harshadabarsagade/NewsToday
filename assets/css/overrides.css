@@ -334,3 +334,61 @@ textarea {
 .header .w-container {
   overflow: visible !important;
 }
+/* ==========================================================================
+   NAVIGATION EXACT BASELINE ALIGNMENT
+   Ensures 'All Pages' and all nav-links sit on the exact same horizontal baseline
+   ========================================================================== */
+.nav-menu {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.dropdoen-menu {
+  display: inline-flex !important;
+  align-items: center !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  margin: 0 !important;
+}
+
+.dropdown-toggle-main {
+  display: inline-flex !important;
+  align-items: center !important;
+  padding: 0 16px 0 0 !important;
+  margin: 0 !important;
+  line-height: normal !important;
+  height: auto !important;
+  vertical-align: middle !important;
+}
+
+.dropdown-text {
+  display: inline-block !important;
+  line-height: normal !important;
+  vertical-align: middle !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.icon-3.w-icon-dropdown-toggle {
+  display: inline-block !important;
+  position: static !important;
+  margin: 0 0 0 4px !important;
+  vertical-align: middle !important;
+  line-height: 1 !important;
+}
+
+.nav-link {
+  display: inline-flex !important;
+  align-items: center !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  line-height: normal !important;
+  vertical-align: middle !important;
+}
+
+.nav-link.gap-top,
+.nav-link.gap-top._01 {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding: 0 !important;
+}

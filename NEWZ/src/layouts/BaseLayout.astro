@@ -2,7 +2,7 @@
 import '../styles/global.css';
 import { languages, categories } from '../data';
 import type { Language } from '../types';
-const { title, description, lang = 'en', canonical = '', article = false, articleData, noindex = false } = Astro.props;
+const { title, description, lang = 'hi', canonical = '', article = false, articleData, noindex = false } = Astro.props;
 const hi = lang === 'hi';
 const labels = hi ? { home: 'होम', switch: 'भाषा बदलें', menu: 'मुख्य मेन्यू', checkout: 'सदस्यता', tagline: 'स्थानीय खबरें, स्पष्ट भाषा में।', footer: 'भागलपुर और बिहार के लिए स्रोत-सही खबरें।', date: '17 नवंबर 2026' } : { home: 'Home', switch: 'Change language', menu: 'Main menu', checkout: 'Checkout', tagline: 'Local news, clearly told.', footer: 'Source-first reporting for Bhagalpur and Bihar.', date: '17 November 2026' };
 const baseUrl = String(Astro.site ?? 'https://newstoday.example').replace(/\/$/, '');
