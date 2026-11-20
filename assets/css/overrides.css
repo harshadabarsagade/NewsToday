@@ -334,8 +334,7 @@ textarea {
 .header .w-container {
   overflow: visible !important;
 }
-===================================================================
-   NAVIGATION EXACT BASELINE ALIGNMENT
+/* NAVIGATION EXACT BASELINE ALIGNMENT
    Ensures 'All Pages' and all nav-links sit on the exact same horizontal baseline
    ========================================================================== */
 .nav-menu {
