@@ -337,9 +337,11 @@ textarea {
 /* NAVIGATION EXACT BASELINE ALIGNMENT
    Ensures 'All Pages' and all nav-links sit on the exact same horizontal baseline
    ========================================================================== */
+@media (min-width: 992px) {
 .nav-menu {
-  display: flex !important;
+  display: flex;
   align-items: center !important;
+}
 }
 
 .dropdoen-menu {
@@ -390,6 +392,7 @@ textarea {
   margin-top: 0 !important;
   margin-bottom: 0 !important;
   padding: 0 !important;
+}
 /* Assignment improvements */
 html {
   scroll-behavior: smooth;
